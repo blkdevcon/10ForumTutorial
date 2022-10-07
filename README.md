@@ -12,7 +12,7 @@ https://docs.google.com/spreadsheets/d/1KPioGiSJbY8tA4WtphgWbAcenx2UDEOehZlmgFYN
 | Tutorial Index |
 | -------- |
 | Updated 03-October-2022
-# A A
+  A A
 Accent Color - Change in Windows 10 Change Color of Start Menu, Taskbar, Title bars, and Action Center in Windows 10
 Accent Colors History - Clear in Windows 10 How to Clear Recent Colors History in Windows 10
 Access Key Shortcuts in Menus - Turn On or Off Underline in Windows 10 How to Turn On or Off Underline Access Key Shortcuts in Menus in Windows 10
@@ -265,7 +265,7 @@ AV1 Codec Support - Add to Windows 10 How to Add AV1 Codec Support to Windows 10
 Available Networks shortcut - Create in Windows 10 How to Create a Show Available Networks shortcut in Windows 10
 Azure AD - Disconnect a Windows 10 PC from How to disconnect a Windows 10 PC from Azure AD and use a local or Microsoft account instead
 Azure AD - Join Windows 10 PC to How to join a Windows 10 PC to Azure Active Directory
-# B B
+**B B**
 Background Apps - Turn On or Off in Windows 10 How to Turn On or Off Background Apps in Windows 10
 Background Data Usage - Restrict for Wi-Fi and Ethernet in Windows 10 How to Restrict Background Data Usage for Wi-Fi and Ethernet in Windows 10
 Backup and Restore context menu - Add in Windows 10 How to Add or Remove a Windows Backup and Restore context menu in Windows 10
@@ -387,7 +387,7 @@ Built-in Administrator account - Enable or Disable User Account Control (UAC) in
 Burn disc image Context Menu - Add or Remove in Windows 10 How to Add or Remove 'Burn disc image' Context Menu in Windows 10
 Burn Disc Image from ISO or IMG file in Windows 10 How to Burn Disc Image from ISO or IMG file in Windows 10
 Button Face Color - Change in Windows 10 How to Change Button Face Color in Windows 10
-# C C
+C C
 CAB file - Add Install to Context Menu in Windows 10 How to Add or Remove Install CAB Context Menu in Windows 10
 CAB file - Install in Windows 10 How to Install a CAB File in Windows 10
 Calculator Always on Top mode - Turn On or Off in Windows 10 How to Turn On or Off Always on Top mode for Calculator app in Windows 10
@@ -745,7 +745,7 @@ Cursor Hover Timeout - Change in Windows How to Change Mouse Hover Time in Windo
 Custom Install Windows 10 How to Custom Install Windows 10
 Customize tab in Desktop Folder Properties - Add or Remove in Windows How to Add or Remove Customize tab in Desktop Folder Properties in Windows
 Customize tab in Folder Properties - Add or Remove in Windows How to Add or Remove Customize tab in Folder Properties in Windows
-# D D
+D D
 Dark or Light Theme for App and Windows Mode in Windows 10 How to Change Default App Mode and Windows Mode to Light or Dark Theme Color in Windows 10
 Data Limit - Set for Cellular, Wi-Fi, and Ethernet in Windows 10 How to Set Data Limit for Cellular, Wi-Fi, and Ethernet Networks in Windows 10
 Data Usage Details - View on Windows 10 Mobile Phone How View Network Data Usage Details on Windows 10 Mobile Phone
@@ -991,7 +991,7 @@ Dual Boot Windows 11 with Windows 10 How to Dual Boot Windows 11 with Windows 10
 Dual Boot - Remove and Uninstall Windows 7, Windows 8, or Windows 10 from PC How to Remove and Uninstall Windows 7, Windows 8, or Windows 10 from Dual Boot PC
 Dynamic Lock Problem Notifications - Turn On or Off in Windows 10 How to Turn On or Off Dynamic Lock Problem Notifications in Windows 10
 Dynamic Lock - Turn On or Off in Windows 10 How to Turn On or Off Dynamic Lock in Windows 10
-# E E
+E E
 Early Launch Antimalware Boot-Start Driver Policy - Configure How to Configure Early Launch AntiMalware Boot-Start Driver Initialization Policy in Windows 8 and 10
 Early Launch Anti-Malware - Disable in Windows 8 and Windows 10 How to Disable Early Launch Anti-Malware Protection in Windows 8 and Windows 10
 Eco Mode - Enable or Disable for App or Process in Windows 10 How to Enable or Disable Eco Mode for App or Process in Windows 10
@@ -1068,7 +1068,7 @@ Extend Volume or Partition in Windows 10 How to Extend Volume or Partition in Wi
 External Storage on Xbox One - Set Up How to Set Up External Storage for Xbox One
 Extract All context menu - Add or Remove in Windows How to Add or Remove 'Extract All' Context Menu for ZIP Files in Windows
 Extract Files from Zipped Folder in Windows 10 How to Unzip (extract) Files from a Zipped Folder in Windows 10
-# F F
+F F
 F8 Advanced Boot Options - Enable or Disable in Windows 10 How to Enable or Disable F8 Advanced Boot Options in Windows 10
 Face - Enable Enhanced Anti-Spoofing for Windows Hello in Windows 10 Enable Enhanced Anti-Spoofing for Windows Hello Face Authentification in Windows 10
 Face - Improve Recognition for Windows Hello in Windows 10 How to Improve Windows Hello Face Recognition in Windows 10
@@ -1281,7 +1281,7 @@ Full Path in Title Bar of File Explorer in Windows 10 How to Display Full Path i
 Fullscreen Optimizations - Enable or Disable in Windows 10 How to Enable or Disable Fullscreen Optimizations for Apps and Games in Windows 10
 Full Screen Start Menu - Turn On or Off in Windows 10 How to Turn On or Off Use Start Full Screen in Windows 10
 FurMark - GPU Stress Test Stress test your GPU for stability issues with FurMark
-# G G
+G G
 Game Bar - Choose Light or Dark Theme in Windows 10 How to Choose Light or Dark Theme for Game Bar in Windows 10
 Game Bar - Dedicate Resources to Game in Windows 10 How to Dedicate Resources to Game in Windows 10 Game Bar
 Game Bar Favorites - Add or Remove Overlay Favorites on Home Bar in Windows 10 How to Add or Remove Overlays on Xbox Game Bar Home in Windows 10
@@ -1423,7 +1423,7 @@ Group Policy Settings - Update in Windows 10 How to Manually Update Group Policy
 Groups - Add or Remove Users in Windows 10 How to Add or Remove Users from Groups in Windows 10
 Guest Account - Add in Windows 10 How to Add a Guest Account in Windows 10
 GUID (Globally Unique Identifier) - Generate in Windows How to Generate a Globally Unique Identifier (GUID) in Windows
-# H H
+H H
 Handwriting Panel - Change Font in Windows 10 How to Change Font of Handwriting Panel in Windows 10
 Handwriting Panel - Change Font Size in Windows 10 How to Change Font Size of Handwriting Panel in Windows 10
 Handwriting Panel - Turn On or Off Write with Fingertip in Windows 10 How to Turn On or Off Write with Fingertip in Handwriting Panel in Windows 10
@@ -1510,7 +1510,7 @@ Hyper-V virtual machine - Use to get Windows 10 Insider ISO images Set up and us
 Hyper-V Virtual Machines Default Folder - Change in Windows 10 How to Change Default Folder to Store Hyper-V Virtual Machines
 Hyper-V virtualization - Setup and Use in Windows 10 How to Setup and Use Hyper-V in Windows 10 for OS Virtualization
 Hyper-V VM - Install CentOS Linux in Windows 10 How to Install CentOS Linux on Hyper-V Virtual Machine in Windows 10
-# I I
+I I
 Icon Cache - Rebuild in Windows 10 How to Rebuild the Icon Cache in Windows 10
 Icon Cache Size - Change in Windows How to Change Icon Cache Size in Windows
 Icon - Extract from File in Windows How to Extract Icon from File in Windows
@@ -1602,7 +1602,7 @@ ISO image for Windows 10 - Create from Existing Installation How to create a Win
 ISO or WinPE - Create How to create a Windows Preinstallation Environment bootable USB flash drive or ISO image
 ISO or USB - See Full Details How to See Full Details about a Windows 10 ISO file or USB
 Item check boxes - Add to Context Menu in Windows 10 How to Add Item check boxes to Context Menu in Windows 10
-# J J
+J J
 JPEG Desktop Wallpaper Quality Reduction - Disable in Windows 10 How to Enable or Disable JPEG Desktop Wallpaper Import Quality Reduction in Windows 10
 Jump Lists - Enable or Disable Pin and Unpin Items in Windows 10 How to Enable or Disable Pin and Unpin Items on Jump Lists in Windows 10
 Jump Lists Maximum Number of Items - Change in Windows 10 How to Change Maximum Number of Items in Jump Lists in Windows 10
@@ -1614,7 +1614,7 @@ Jump Lists Remote Locations - Enable or Disable Showing in Windows How to Enable
 Junction - Create Soft and Hard Symbolic Links in Windows How to Create Soft and Hard Symbolic Links in Windows
 Junction Points and Symbolic Links - Find All in Windows Find All Symbolic Links and Junction Points in Windows
 Junction Points - Restore to Default in Windows How to Restore Default Junction Points in Windows
-# K K
+K K
 Keyboard App Keys - Customize or Disable in Windows How to Customize or Disable App Keys for Keyboard in Windows
 Keyboard Character Repeat Delay and Rate - Change in Windows How to Change Keyboard Character Repeat Delay and Rate in Windows
 Keyboard Input Language and Layout Shortcut - Change in Windows 10 How to Change Keyboard Input Language and Layout Shortcut in Windows 10
@@ -1639,7 +1639,7 @@ Kiosk App - Change in Windows 10 How to Change Kiosk App in Windows 10
 Kiosk Mode (Assigned Access) - Setup in Windows 10 How to Setup or Remove a Kiosk Account using Assigned Access in Windows 10
 Kiosk Mode - Turn On or Off Auto Restart when Windows 10 Crashes How to Turn On or Off Auto Restart when Windows 10 Crashes while in Kiosk Mode
 KN and N Editions Media Feature Pack - Download and Install for Windows 10 How to Download and Install Media Feature Pack for N Editions of Windows 10
-# L L
+L L
 Language - Add in Windows 10 How to Add a Language in Windows 10
 Language Bar and Input Indicator - Turn On or Off in Windows 10 How to Turn On or Off Language Bar and Input Indicator in Windows 10
 Language - Change System UI Language in Windows 10 How to Change System UI Language in Windows 10
@@ -1766,7 +1766,7 @@ Logon (Sign-in) Sound - Play in Windows 10 How to Play Sound at Logon (Sign-in) 
 Long Paths - Enable or Disable in Windows 10 How to Enable or Disable Win32 Long Paths in Windows 10
 Look for an app in the Store - Add or Remove from Open with in Windows 10 Add or Remove 'Look for an app in the Store' in Open with in Windows 10
 Lync App - Join an Online Meeting as Guest How to Use Lync app to Join Online Meeting as Guest without Lync Account
-# M M
+M M
 MAC Address of Windows 10 Mobile Phone - Find How to Find MAC Address of Your Windows 10 Mobile Phone
 MAC Address of Windows 10 PC - Find How to Find MAC Address on Your Windows 10 PC
 MAC for Wi-Fi - Turn On or Off Random Hardware Addresses in Windows 10 How to Turn On or Off Random Hardware MAC Addresses for Wi-Fi in Windows 10
@@ -2410,7 +2410,7 @@ My People Button on Taskbar - Add or Remove in Windows 10 How to Add or Remove P
 My People Button - Turn On or Off Play Shoulder Tap Sound in Windows 10 How to Turn On or Off Play Shoulder Tap Sound on People Bar in Windows 10
 My People Button - Turn On or Off Show Shoulder Taps in Windows 10 How to Turn On or Off Show Shoulder Taps on People Bar in Windows 10
 My People Contacts - Pin and Unpin on Taskbar in Windows 10 How to Pin and Unpin People Contacts on Taskbar in Windows 10
-# N N
+N N
 N and KN Editions Media Feature Pack - Download and Install for Windows 10 How to Download and Install Media Feature Pack for N Editions of Windows 10
 Narrator Announce Characters as Typed - Turn On or Off in Windows 10 How to Turn On or Off Hear Narrator Announce Characters as Typed in Windows 10
 Narrator Announce Function Keys as Typed - Turn On or Off in Windows 10 How to Turn On or Off Hear Narrator Announce Function Keys as Typed in Windows 10
@@ -2578,7 +2578,7 @@ NVIDIA Control Panel Desktop Context Menu - Add or Remove in Windows How to Add 
 NVIDIA Control Panel Notification Tray Icon - Add or Remove in Windows How to Add or Remove NVIDIA Control Panel Notification Tray Icon on Taskbar in Windows
 NVIDIA GPU Activity Notification Area Icon - Add or Remove in Windows How to Add or Remove NVIDIA GPU Activity Notification Area Icon on Taskbar in Windows
 NVIDIA Graphics Display Driver - Determine Version Installed in Windows How to Determine Currently Installed NVIDIA Graphics Display Driver Version in Windows
-# O O
+O O
 OEM Support Information - Customize in Windows 10 How to Customize OEM Support Information in Windows 10
 Office Apps - Install and Use in Windows 10 How to Install and use the free Microsoft Office Apps for Windows 10
 Office 2016 Automatic Updates - Enable or Disable How to Enable or Disable Automatic Office 2016 Updates
@@ -2727,7 +2727,7 @@ Owner - Add Change Owner to Context Menu in Windows 10 How to Add Change Owner t
 Owner - Add View Owner to Context Menu in Windows How to Add View Owner to Context Menu in Windows
 Owner and Organization Registered - Change for Windows 10 PC How to Change Registered Owner and Organization of your Windows 10 PC
 Owner of File, Folder, Drive, or Registry Key - Change in Windows 10 How to Change Owner of File, Folder, Drive, or Registry Key in Windows 10
-# P P
+P P
 Pagefile - Allow or Prevent Users and Groups to Create in Windows 10 How to Allow or Prevent Users and Groups to Create a Pagefile in Windows 10
 Pagefile - Clear at Shutdown in Windows 10 How to Clear Virtual Memory Pagefile at Shutdown in Windows 10
 Pagefile Encryption - Enable or Disable in Windows 10 How to Enable or Disable Virtual Memory Pagefile Encryption in Windows 10
@@ -3085,7 +3085,7 @@ Provisioning Package - Create in Windows 10 Create Custom Provisioning Package u
 PS1 File - Add "Edit or Run with" Context Menu in Windows 10 How to Add "Edit or Run with" PS1 File Context Menu in Windows 10
 PS1 File - Add Run as administrator to Context Menu in Windows 10 How to Add 'Run as administrator' to PS1 File Context Menu in Windows 10
 Public Folder Sharing - Turn On or Off in Windows 10 How to Turn On or Off Public Folder Sharing in Windows 10
-# Q Q
+Q Q
 Quick Access - Add or Remove Favorites in Windows 10 How to Add or Remove Favorites from Quick Access in Windows 10
 Quick access - Add or Remove Frequent folders Windows 10 How to Add or Remove Frequent folders from Quick access in Windows 10
 Quick access - Add or Remove 'Pin to Quick access' Context Menu in Windows 10 How to Add or Remove 'Pin to Quick access' on Context Menu in Windows 10
@@ -3122,7 +3122,7 @@ Quiet Hours Automatic Rules - Change in Windows 10 How to Change Quiet Hours Aut
 Quiet Hours Priority List - Customize in Windows 10 How to Customize Quiet Hours Priority List in Windows 10
 Quiet Hours - Turn On or Off in Windows 10 How to Turn On or Off Quiet Hours in Windows 10
 Quota tab in Drive Properties in Windows 10 - Add or Remove How to Add or Remove Quota tab in Drive Properties in Windows 10
-# R R
+R R
 RAM Disk - Create with ImDisk in Windows 10 How to Create a RAM Disk with ImDisk in Windows 10
 RAM Size, Speed, and Type - Determine in Windows 10 How to Determine System Memory Size, Speed, and Type in Windows 10
 Random Hardware MAC Addresses for Wi-Fi - Turn On or Off in Windows 10 How to Turn On or Off Random Hardware MAC Addresses for Wi-Fi in Windows 10
@@ -3291,7 +3291,7 @@ Run Dialog Box History and File Explorer History - Clear in Windows 10 How to Cl
 Run Dialog Box Shortcut - Create in Windows 7, Windows 8, and Windows 10 How to Create Run Dialog Box Shortcut in Windows 7, Windows 8, and Windows 10
 Run with priority Context Menu - Add in Windows 10 How to Add 'Run with priority' Context Menu in Windows 10
 Rundll32 Commands List for Windows 10 List of Rundll32 Commands for Windows 10
-# S S
+S S
 S mode - Enable in Windows 10 How to Enable S mode in Windows 10
 S Mode - Install on a Windows 10 PC How to Install Windows 10 in S Mode on a Windows 10 PC
 S mode - Switch out of in Windows 10 for Free How to Switch out of S mode in Windows 10 for Free
@@ -3859,7 +3859,7 @@ System UI Language - Force as Display Language in Windows How to Force System UI
 System Uptime - Find in Windows 10 How to Find System Uptime in Windows 10
 System unattended sleep timeout - Add to Power Options in Windows 10 How to Add 'System unattended sleep timeout' to Power Options in Windows 10
 System Unattended Sleep Timeout - Change in Windows 10 How to Change System Unattended Sleep Timeout in Windows 10
-# T T
+T T
 3D Objects Folder Icon - Change or Restore in Windows 10 How to Change or Restore 3D Objects Folder Icon in Windows 10
 3D Print with 3D Builder context menu - Add or Remove in Windows 10 How to Add or Remove 3D Print with 3D Builder context menu in Windows 10
 Tablet Mode Ask to Switch - Turn On or Off in Windows 10 How to Turn On or Off Ask before Automatically Switching to Tablet Mode in Windows 10
@@ -4120,7 +4120,7 @@ Turn Off Hard Disk After Idle in Windows 10 How to Turn Off Hard Disk After Idle
 Turn on BitLocker context menu - Add or Remove in Windows 10 How to Add or Remove 'Turn on BitLocker' Context Menu from Drives in Windows 10
 Two-step Verification for Microsoft Account - Turn On or Off How to Turn On or Off Two-step Verification for your Microsoft Account
 Typing Insights - Turn On or Off in Windows 10 How to Turn On or Off Typing Insights in Windows 10
-# U U
+U U
 UEFI and BIOS Firmware Version - Check in Windows 10 How to Check BIOS or UEFI Firmware Version in Windows 10
 UEFI Firmware Settings - Boot to from inside Windows 10 How to Boot to UEFI Firmware Settings from inside Windows 10
 UEFI Firmware Settings Context Menu - Add in Windows 10 How to Add Boot to UEFI Firmware Settings Context Menu in Windows 10
@@ -4222,7 +4222,7 @@ Users - Add or Remove from Groups in Windows 10 How to Add or Remove Users from 
 Users Folder - Move Location in Windows 10 How to Move Users Folder to another Location in Windows 10
 Users Personal Folders - Restore Default Location in Windows 10 How to Restore Default Location of Your Personal Folders in Windows 10
 UUP to ISO - Create Bootable ISO from Windows 10 Build Upgrade Files How to Create a Windows 10 ISO Image File from UUP Upgrade Files
-# V V
+V V
 Variable Refresh Rate for Games - Turn On or Off in Windows 10 How to Turn On or Off Variable Refresh Rate for Games in Windows 10
 VBS File - Add Run as administrator to Context Menu in Windows 10 How to Add 'Run as administrator' to VBS File Context Menu in Windows 10
 VBScript File - Add to New Context Menu in Windows 10 How to Add VBScript Script File to New Context Menu in Windows 10
@@ -4288,7 +4288,7 @@ VPN - Disconnect in Windows 10 How to Disconnect a VPN in Windows 10
 VPN over Metered Networks - Turn On or Off in Windows 10 How to Turn On or Off Allow VPN over Metered Networks in Windows 10
 VPN page in Settings - Enable or Disable in Windows 10 How to Enable or Disable VPN page in Settings in Windows 10
 VPN while Roaming - Turn On or Off in Windows 10 How to Turn On or Off Allow VPN while Roaming in Windows 10
-# W W
+W W
 Wake on LAN (WOL) - Enable or Disable in Windows 10 How to Enable or Disable Wake on LAN (WOL) in Windows 10
 Wake Source - See in Windows 10 How to See Wake Source in Windows 10
 Wake Timers - Enable or Disable in Windows 10 How to Enable or Disable to Allow Wake Timers in Windows 10
@@ -4703,7 +4703,7 @@ Write Protection for Disk - Enable or Disable in Windows How to Enable or Disabl
 Write Protection for Removable Drives - Turn On or Off in Windows 10 How to Turn On or Off Write Protection for Removable Drives in Windows 10
 WSL 1 or WSL 2 - Set as Linux Distribution Version in Windows 10 How to Set Linux Distribution version to WSL 1 or WSL 2 in Windows 10
 WSL 2 (Windows Subsystem for Linux 2) - Update to from WSL in Windows 10 How to Update from WSL to WSL 2 in Windows 10
-# X X
+X X
 Xbox Game Bar Favorites - Add or Remove Overlay Favorites on Home Bar in Windows 10 How to Add or Remove Overlays on Xbox Game Bar Home in Windows 10
 Xbox Game Bar Keyboard Shortcuts - Customize in Windows 10 How to Customize Keyboard Shortcuts for Game Bar in Windows 10
 Xbox Game Bar Open using Xbox button on Controller - Enable or Disable in Windows 10 Enable or Disable Open Xbox Game Bar using Xbox button on Game Controller in Windows 10
@@ -4728,7 +4728,7 @@ Xbox One System Updates - Check for and Install How to Check for and Install Sys
 XP Mode Virtual Machine - Add to Hyper-V in Windows 10 How to Create Hyper-V virtual machine using free Windows XP Mode in Windows 10
 XPS Document Writer Printer - Add or Remove in Windows 10 How to Add or Remove Microsoft XPS Document Writer Printer in Windows 10
 XPS Viewer app - Add or Remove in Windows 10 How to Add or Remove XPS Viewer app in Windows 10
-# Y Y
+Y Y
 "You have new apps that can open this type of file" Notification - Disable How to Disable 'You have new apps that can open this type of file' Notification in Windows 10
 Your Account Info page in Settings - Enable or Disable in Windows 10 How to Enable or Disable Your Account Info page in Settings in Windows 10
 Your Microsoft account needs you to sign in again - Fix in Windows 10 How to Fix 'Click here to enter your most recent credential' in Windows 8 and Windows 10
@@ -4776,7 +4776,7 @@ Windows 10
 YouTube AV1 Video Support - Enable How to Enable AV1 Video Support on YouTube
 YubiKey Security Key - Login to Local Accounts with in Windows How to Securely Login to Local Accounts with YubiKey Security Key in Windows 7, Windows 8, and Windows
 10
-# Z Z
+Z Z
 ZIP 'Extract All' Context Menu - Add or Remove in Windows How to Add or Remove 'Extract All' Context Menu for ZIP Files in Windows
 Zip a File or Folder - How To in Windows 10 How to Zip (compress) a File or Folder in Windows 10
 Zipped Folder - Unzip Files from in Windows 10 How to Unzip (extract) Files from a Zipped Folder in Windows 10
